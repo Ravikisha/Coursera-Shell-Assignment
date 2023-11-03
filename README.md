@@ -1,5 +1,5 @@
 ![Poster](docs/docs1.jpg)
-# Coursera Shell Assessment 📚
+# Coursera Shell Assignment 📚
 
 ## Project Name: Simple Interest Calculator 💰
 
