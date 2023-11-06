@@ -4,7 +4,7 @@
 ## Project Name: Simple Interest Calculator 💰
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/)
 
-### A project for the Coursera IBM Full Stack Development Course
+### A project for the Coursera IBM Full Stack Development Course [![Coursera](https://img.shields.io/badge/Coursera-IBM%20Full%20Stack%20Development-blue)](https://www.coursera.org/)
 ## Project Description 📝
 
 The Coursera Shell Assessment is a simple interest calculator shell script. It calculates simple interest given the principal, annual rate of interest, and time period in years. This script is for sample and educational purposes.
